@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}Definitions}{2}{section.1}%
+\contentsline {section}{\numberline {2}Main Theorems}{2}{section.2}%
+\contentsline {section}{\numberline {3}Corollaries}{3}{section.3}%
+\contentsline {section}{\numberline {4}Practical Implications for Edge AI}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Confidence-Targeted Generation}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Diversity-Targeted Generation}{3}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Summary Table}{4}{subsection.4.3}%
+\contentsline {section}{\numberline {5}Empirical Verification}{4}{section.5}%
+\contentsline {section}{\numberline {6}Related Work}{4}{section.6}%
+\contentsline {section}{References}{4}{section*.2}%
